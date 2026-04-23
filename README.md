@@ -1,10 +1,10 @@
-#  Lava_Car
+#  Sistema de Lavacar
 
 **Lava_Car** es un proyecto desarrollado en **Java** con fines exclusivamente académicos y de práctica de programación orientada a objetos.
 
 ---
 
-## Descripción
+## Contexto del proyecto
 
 Sistema de gestión para un lavado de autos que automatiza el registro e ingreso de vehículos, administración de clientes y control de los distintos tipos de lavado disponibles.
 
