@@ -35,4 +35,4 @@ Este repositorio tiene como **única finalidad la práctica y el aprendizaje** d
 
 ## Autor
 
-**axl2709** — Estudiante en proceso de aprendizaje de desarrollo de software.
+**axl2709** - Estudiante en proceso de aprendizaje de desarrollo de software.
