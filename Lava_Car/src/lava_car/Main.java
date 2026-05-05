@@ -4,6 +4,7 @@
  */
 package lava_car;
 
+import Database.Conexion;
 import javax.swing.JOptionPane;
 
 /**
@@ -14,7 +15,8 @@ public class Main {
     
     public static void main(String[] args) {
         
-        JOptionPane.showMessageDialog(null, "Hola, este es un commit de prueba");
+       Conexion con = new Conexion();
+       con.conectar();
     }
     
     
