@@ -12,11 +12,11 @@ Sistema de gestión para un lavado de autos que automatiza el registro e ingreso
 
 ## Funcionalidades
 
--  **Ingreso de vehículos** — Registro automático de los autos que ingresan al sistema
--  **Gestión de clientes** — Alta y administración de la información de cada cliente
--  **Tipos de lavado** — Diferentes categorías de servicio disponibles
--  **Sistema de prioridad** — Cola de atención según el tipo de lavado seleccionado
--  **Precios** — Tarifas asociadas a cada tipo de servicio
+-  **Ingreso de vehículos** - Registro automático de los autos que ingresan al sistema
+-  **Gestión de clientes** - Alta y administración de la información de cada cliente
+-  **Tipos de lavado** - Diferentes categorías de servicio disponibles
+-  **Sistema de prioridad** - Cola de atención según el tipo de lavado seleccionado
+-  **Precios** - Tarifas asociadas a cada tipo de servicio
 
 ---
 
